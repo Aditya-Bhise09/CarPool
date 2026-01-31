@@ -159,4 +159,5 @@ $("#updatepictureform").submit(function(event){
             $("#updatepicturemessage").slideDown()
         }
     })
+
 })
