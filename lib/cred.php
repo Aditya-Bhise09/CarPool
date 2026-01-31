@@ -1,4 +1,5 @@
 <?php
-    define('MYEMAIL','adityaamol1134@gmail.com');
-    define('MYPASS','hyqgpeufnpfqrjwp');
+    define('MYEMAIL','yourmail@gmail.com');
+    define('MYPASS','yourrealpassword');
 ?>
+
